@@ -38,9 +38,6 @@
                             <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="flA-uy-vns" secondAttribute="bottom" id="fyX-uP-O0w"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="startBtn" destination="flA-uy-vns" id="sTP-aW-KYL"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
